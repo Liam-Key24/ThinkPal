@@ -3,6 +3,7 @@ import NavBar from './ui/navbar'
 import Hero from './ui/hero'
 import ChromeBtn from './ui/chromebutton'
 import Info from './ui/info'
+import Footer from './ui/footer'
 
 function App() {
 
@@ -15,6 +16,9 @@ function App() {
     </div>
     <div>
       <Info/>
+    </div>
+    <div>
+      <Footer/>
     </div>
     </>
   )
